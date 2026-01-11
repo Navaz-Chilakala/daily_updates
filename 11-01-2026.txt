@@ -1,0 +1,7 @@
+do certifications
+
+Solution design document is a document on which the details of a project are written before its implementation.
+It's an important document to communicate the technical details of the plan to a team.
+It also helps organize one's thoughts before you start working on the project.
+
+
