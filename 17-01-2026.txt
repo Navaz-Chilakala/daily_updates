@@ -1,0 +1,4 @@
+js is not ideal for scalable systems.
+
+runs line by line
+
